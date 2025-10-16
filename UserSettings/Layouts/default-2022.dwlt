@@ -466,9 +466,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: eca60000
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff
+      m_ExpandedIDs: e09ffeff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -586,7 +586,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -594,16 +594,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: /Users/mac/GameEngineMEX
+  m_LastProjectPath: /Users/mac/Song_unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 266b0000
-    m_LastClickedID: 27430
-    m_ExpandedIDs: 000000009c69000000ca9a3bffffff7f
+    m_SelectedIDs: 0a060000
+    m_LastClickedID: 1546
+    m_ExpandedIDs: 000000000a06000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -631,7 +631,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009c690000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1170,9 +1170,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 20.532276, y: 33.89803, z: 46.751987}
+    m_Target: {x: 19.306444, y: 34.123188, z: 46.332264}
     speed: 2
-    m_Value: {x: 20.532276, y: 33.89803, z: 46.751987}
+    m_Value: {x: 19.306444, y: 34.123188, z: 46.332264}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1218,9 +1218,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.10449927, y: 0.8951264, z: -0.2919972, w: 0.32047015}
+    m_Target: {x: -0.026171723, y: 0.965738, z: -0.23511145, w: -0.10735033}
     speed: 2
-    m_Value: {x: 0.10449223, y: 0.89506614, z: -0.29197752, w: 0.32044858}
+    m_Value: {x: -0.026330885, y: 0.96531856, z: -0.23654369, w: -0.10730366}
   m_Size:
     m_Target: 0.8660254
     speed: 2
